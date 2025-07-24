@@ -13,7 +13,7 @@ rm -rf ~/.config/nvim
 
 rm -rf ~/.local/share/nvim
 
-git clone https://github.com/FStanDev/myNvChadConfig.git ~/.config/nvim && nvim
+git clone https://github.com/FStanDev/NeovimParaPython ~/.config/nvim && nvim
 ```
 
 **On Windows:**
@@ -22,5 +22,5 @@ git clone https://github.com/FStanDev/myNvChadConfig.git ~/.config/nvim && nvim
 rm -Force ~\AppData\Local\nvim
 rm -Force ~\AppData\Local\nvim-data
 
-git clone https://github.com/FStanDev/myNvChadConfig.git $ENV:USERPROFILE\AppData\Local\nvim && nvim
+git clone https://github.com/FStanDev/NeovimParaPython $ENV:USERPROFILE\AppData\Local\nvim && nvim
 ```
