@@ -1,6 +1,6 @@
 # Nvim Config para Python
 
-Este es el repo del [video]() donde configuramos neovim para usarlo con Python.
+Este es el repo del [video](https://youtu.be/gL4Z0t0L16o) donde configuramos neovim para usarlo con Python.
 
 Si quieres saltarte toda la parte del vídeo, borra tu contenido anterior de nvim, haz un backup antes por si acaso, en serio.
 
